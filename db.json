@@ -1,11 +1,15 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Juan Maldonado"
+    },
+    {
+      "id":,
+      "name":"Jose Escobar"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "debitCards": {
+    "name": "visa"
   }
 }
