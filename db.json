@@ -2,10 +2,25 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 1,
+      "title": "Post 3"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "coments": [
+    {
+      "name": "Carros",
+      "postId": 1	
+    },
+    {
+      "name": "Casa",
+      "postId": 2	
+    }
+  ]
 }
