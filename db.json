@@ -26,32 +26,38 @@
 	"cards": [{
 			"nombre": "VISA",
 			"id": 1461,
-			"userId": 1
+			"userId": 1,
+		        "status": "ON"
 		},
 		{
 			"nombre": "MASTERCARD",
 			"id": 2461,
-			"userId": 1
+			"userId": 1,
+		        "status": "ON"
 		},
 		{
 			"nombre": "AMERICAN EXPRESS",
 			"id": 3461,
-			"userId": 1
+			"userId": 1,
+		        "status": "OFF"
 		},
 		{
 			"nombre": "MASTERCARD",
 			"id": 2462,
-			"userId": 2
+			"userId": 2,
+		        "status": "ON"
 		},
 		{
 			"nombre": "AMERICAN EXPRESS",
 			"id": 3463,
-			"userId": 3
+			"userId": 3,
+		        "status": "ON"
 		},
 		{
 			"nombre": "MASTERCARD",
 			"id": 2464,
-			"userId": 4
+			"userId": 4,
+		        "status": "ON"
 		}],
 	"transacciones": [{
 			"fecha": "08 - 06 - 2018",
