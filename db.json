@@ -22,8 +22,7 @@
 			"rut": "4",
 			"nombre": "Carlos",
 			"apellido": "Escobar"
-		}
-	],
+		}],
 	"cards": [{
 			"nombre": "VISA",
 			"id": 1461,
@@ -53,8 +52,7 @@
 			"nombre": "MASTERCARD",
 			"id": 2464,
 			"userId": 4
-		}
-	],
+		}],
 	"transacciones": [{
 			"fecha": "08 - 06 - 2018",
 			"monto": 5000,
@@ -68,6 +66,5 @@
 			"estatus": "RECHAZADA",
 			"userId": 1,
 			"cardId": 2461
-		}
-	]
+		}]
 }
