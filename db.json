@@ -1,28 +1,27 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "rut": "1",
-      "nombre": "Juan",
-      "apellido": "Maldonado"
-    },
-    {
-      "id": 2,
-      "rut": "2",
-      "nombre": "Jose",
-      "apellido": "Escobar"
-    },
-    {
-      "id": 3,
-      "rut": "3",
-      "nombre": "Sabrina",
-      "apellido": "Martinez"
-    },
-    {
-      "id": 4,
-      "rut": "4",
-      "nombre": "Carlos",
-      "apellido": "Escobar"
-    }
-  ]
+	"users": [{
+			"id": 1,
+			"rut": "1",
+			"nombre": "Juan",
+			"apellido": "Maldonado"
+		},
+		{
+			"id": 2,
+			"rut": "2",
+			"nombre": "Jose",
+			"apellido": "Escobar"
+		},
+		{
+			"id": 3,
+			"rut": "3",
+			"nombre": "Sabrina",
+			"apellido": "Martinez"
+		},
+		{
+			"id": 4,
+			"rut": "4",
+			"nombre": "Carlos",
+			"apellido": "Escobar"
+		}
+	]
 }
