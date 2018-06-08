@@ -1,26 +1,76 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "Post 1"
+      "rut": "1",
+      "nombre": "Juan",
+      "apellido": "Maldonado"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "rut": "2",
+      "nombre": "Jose",
+      "apellido": "Escobar"
     },
     {
-      "id": 1,
-      "title": "Post 3"
+      "id": 3,
+      "rut": "3",
+      "nombre": "Sabrina",
+      "apellido": "Martinez"
+    },
+    {
+      "id": 4,
+      "rut": "4",
+      "nombre": "Carlos",
+      "apellido": "Escobar"
     }
   ],
-  "coments": [
+  "cards": [
     {
-      "name": "Carros",
-      "postId": 1	
+      "nombre": "VISA",
+      "id": 1461,
+      "userId": 1	
     },
     {
-      "name": "Casa",
-      "postId": 2	
+      "nombre": "MASTERCARD",
+      "id": 2461,
+      "userId": 1	
+    },
+    {
+      "nombre": "AMERICAN EXPRESS",
+      "id": 3461,
+      "userId": 1	
+    },
+    {
+      "nombre": "MASTERCARD",
+      "id": 2462,
+      "userId": 2	
+    },
+    {
+      "nombre": "AMERICAN EXPRESS",
+      "id": 3463,
+      "userId": 3	
+    },
+    {
+      "nombre": "MASTERCARD",
+      "id": 2464,
+      "userId": 4	
+    }
+  ],
+  "transacciones": [
+    {
+      "fecha": 08-06-2018,
+      "monto": 5000,
+      "estatus": "APROBADA",
+      "userId": 1,
+      "cardId": 1461		
+    },
+    {
+      "fecha": 05-06-2018,
+      "monto": 15000,
+      "estatus": "RECHAZADA",
+      "userId": 1,
+      "cardId": 2461		
     }
   ]
 }
